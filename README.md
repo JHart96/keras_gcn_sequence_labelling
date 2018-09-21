@@ -1,6 +1,6 @@
 # Spectral Graph Convolutional Networks for Sequence Labelling in Keras
 
-This project implements Spectral Graph Convolutional Networks (Kipf and Welling, 2016) for sequence labelling tasks. The system achieves x% F1 score on the CoNLL-2003 named entity recognition dataset. This implementation is based on Thomas Kipf's GCN implementation for relational graphs, but is designed for text sequence labelling and works with Tensorflow and Keras 2. The evaluation code is based on: https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf.
+This project implements Spectral Graph Convolutional Networks (Kipf and Welling, 2016) for sequence labelling tasks. The system achieves 82.69 F1 score on the CoNLL-2003 named entity recognition dataset. This implementation is based on Thomas Kipf's GCN implementation for relational graphs, but is designed for text sequence labelling and works with Tensorflow and Keras 2. The evaluation code is based on: https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf. I've written a blog post about the project here: https://jordanhart.co.uk/2018/09/21/spectral-graph-convolutional-networks-for-sequence-labelling-in-keras/.
 
 ## Requirements
 
